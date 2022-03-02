@@ -29,6 +29,11 @@ Next, I wrote another query to retrieve the number of employees by their most re
 
 
 ### Mentorship Eligibility 
+I wrote a query to create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program. I performed an inner join using DISTINCT ON to join columns from the Employees table with columns from the Department Employee table along with the title column of the Titles table. Then I filtered the data to show all current employees born in 1965, in order by employee number. 
+
+<img width="876" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/85920136/156284652-085154b5-d95a-4763-a44e-e65926d6bd3f.png">
+
+
 
 ## Summary
 
