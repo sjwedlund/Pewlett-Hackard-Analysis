@@ -1,7 +1,7 @@
-# Pewlett-Hackard Analysis
+# Pewlett Hackard Analysis
 
 ## Overview of The Analysis
-The purpose of this analysis is to help the manager of Pewlett-Hackard prepare for the upcoming "Silver Tsunami" by determining the number of retiring employees at Pewlett-Hackard, and to identify employees who are eligible to participate in a mentorship program. 
+The purpose of this analysis is to help the manager of Pewlett Hackard prepare for the upcoming "Silver Tsunami" by determining the number of retiring employees at Pewlett Hackard, and to identify employees who are eligible to participate in a mentorship program. 
 
 ## Results
 In Deliverables 1 & 2, I have created the following tables:
@@ -37,4 +37,6 @@ I wrote a query to create a Mentorship Eligibility table that holds the employee
 ## Summary
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+There are 90,398 roles that will need to be filled as older employees start to retire. At the moment, there are 1549 qualified and retirement-ready employees in the departments who can mentor the next generation of Pewlett Hackard employees. 
 
