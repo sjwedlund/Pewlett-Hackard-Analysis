@@ -34,6 +34,7 @@ I wrote a query to create a Mentorship Eligibility table that holds the employee
 <img width="876" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/85920136/156284652-085154b5-d95a-4763-a44e-e65926d6bd3f.png">
 
 
-
 ## Summary
+- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
