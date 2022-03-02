@@ -23,6 +23,11 @@ After creating the retirement_titles table and importing the CSV file, there wer
 
 
 ### Retiring Titles
+Next, I wrote another query to retrieve the number of employees by their most recent job title who are about to retire. I retrieved the number of titles from the Unique Titles table. Then, I created a Retiring Titles table to hold the required information. I grouped the table by title and sorted the count column in descending order. 
+
+<img width="366" alt="retiring_titles" src="https://user-images.githubusercontent.com/85920136/156283960-428fe7eb-12e3-43e8-a9d4-fdeccea5d6da.png">
+
+
 ### Mentorship Eligibility 
 
 ## Summary
