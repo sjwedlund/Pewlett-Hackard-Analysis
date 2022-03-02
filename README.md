@@ -1,7 +1,7 @@
 # Pewlett-Hackard Analysis
 
 ## Overview of The Analysis
-The purpose of this analysis is to determine the number of retiring employees at Pewlett-Hackard, and to identify employees who are eligible to participate in a mentorship program. 
+The purpose of this analysis is to help the manager of Pewlett-Hackard prepare for the upcoming "Silver Tsunami" by determining the number of retiring employees at Pewlett-Hackard, and to identify employees who are eligible to participate in a mentorship program. 
 
 ## Results
 In Deliverables 1 & 2, I have created the following tables:
