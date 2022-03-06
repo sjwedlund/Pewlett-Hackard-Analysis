@@ -1,7 +1,7 @@
 # Pewlett Hackard Analysis
 
 ## Overview of The Analysis
-The purpose of this analysis is to help the manager of Pewlett Hackard prepare for the upcoming "Silver Tsunami" by determining the number of retiring employees at Pewlett Hackard, born between 1952 and 1955, and to identify employees who are eligible to participate in a mentorship program. 
+The purpose of this analysis is to help Pewlett Hackard prepare for the upcoming "Silver Tsunami" by determining the number of retiring employees at the company, born between 1952 and 1955, and to identify employees who are eligible to participate in a mentorship program. 
 
 ## Results
 In Deliverables 1 & 2, I have created the following tables:
@@ -37,6 +37,15 @@ I wrote a query to create a Mentorship Eligibility table that holds the employee
 ## Summary
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- Query for younger employees
+- Pre-retirement Table
 
-There is a total of 240,214 current employees with the company, and there are 90,398 roles that will need to be filled as older employees start to retire. At the moment, there are 1549 qualified and retirement-ready employees in the departments who can mentor the next generation of Pewlett Hackard employees. This leaves 148,177 employees who are not retiring and are not eligible for the mentorship program. 
+There is a total of 240,214 current employees with the company, and there are 90,398 roles that will need to be filled as older employees start to retire. That accounts for approximately 38% of PH employees who are approaching retirement. At the moment, there are 1549 employees born in 1965 who are qualified to participate in the mentorship program. 
+
+Looking at the CSV file of current employees that I created, there don't appear to be any birthdates after 1965. Performing a query for anyone born after 1965 did not return any results. PH is going to have to hire some fresh faces to fill the void caused by retiring employees. 
+
+If the retiring employees are born between 1952 and 1955, and the upcoming mentees are born in 1965, how many employees are born between 1964 and 1956? I wrote a query to construct a table, below, of pre-retirement employees who would not need mentorship because they are on their way to retirement themselves. That query turned up 129,432 employees. 
+
+<img width="931" alt="pre-retirement" src="https://user-images.githubusercontent.com/85920136/156908546-86440eea-d9c7-4700-873e-8ceeafb29201.png">
+
 
