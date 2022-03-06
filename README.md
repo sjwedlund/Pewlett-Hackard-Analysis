@@ -37,15 +37,17 @@ I wrote a query to create a Mentorship Eligibility table that holds the employee
 ## Summary
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-- Query for younger employees
-- Pre-retirement Table
+- Eligible for Promotion 
+- Recommendations
 
-There is a total of 240,214 current employees with the company, and there are 90,398 roles that will need to be filled as older employees start to retire. That accounts for approximately 38% of PH employees who are approaching retirement. At the moment, there are 1549 employees born in 1965 who are qualified to participate in the mentorship program. 
+There is a total of 240,214 current employees with the company, and there are 90,398 roles that will need to be filled as older employees start to retire. That accounts for approximately 38% of PH employees who are approaching retirement. 
 
-Looking at the CSV file of current employees that I created, there don't appear to be any birthdates after 1965. Performing a query for anyone born after 1965 did not return any results. PH is going to have to hire some fresh faces to fill the void caused by retiring employees. 
+There are 1549 employees born in 1965 who are qualified to participate in the mentorship program. Looking at the CSV file of current employees that I created, there don't appear to be any birthdates after 1965. Performing a query for anyone born after 1965 did not return any results. PH is going to have to hire some fresh faces to fill the void caused by retiring employees. 
 
-If the retiring employees are born between 1952 and 1955, and the upcoming mentees are born in 1965, how many employees are born between 1964 and 1956? I wrote a query to construct a table, below, of pre-retirement employees who would not need mentorship because they are on their way to retirement themselves. That query turned up 129,432 employees. 
+As per the table below, there are currently 85,939 Senior Engineers and 29,414 of them are retiring, which leaves 56,525 Senior Engineers who will remain employed at PH. There are a total of 82,024 Senior Staff, of which 28,254 are retiring, which leaves 53,770 remaining Senior Staff. There are 30,983 total Engineers presently working at PH. 14,222 of them are retiring. This leaves 16,761 who may be eligible to be promoted to Senior Engineer. There are 25,526 employees with the title Staff, and 12,243 of them are retiring. This leaves 13,283 who will not retire and may be eligible to be promoted to Senior Staff. PH has a heavy concentration of senior-level employees, far more Senior Engineers and Senior Staff than there are Engineers and Staff. Perhaps there should be more entry-level employees, who have fresh ideas and don't need to be paid as much. 
 
-<img width="931" alt="pre-retirement" src="https://user-images.githubusercontent.com/85920136/156908546-86440eea-d9c7-4700-873e-8ceeafb29201.png">
+<img width="354" alt="eligible_for_promotion" src="https://user-images.githubusercontent.com/85920136/156910341-98c3f906-c548-4e45-9109-279d506c5bab.png">
+
+My recommendation is to start hiring new entry-level employees immediately that can be mentored. The recommended mentor to mentee ratio is 1:5, so I recommend hiring 7745 entry-level employees per year for the next three years, for a total of 23,235 entry level positions in the next three years. That leaves 67,163 additional vacancies. My other recommendation is to hire mid-level employees who have experience and don't need mentorship to fill the rest of the vacancies. Hiring can be done in cohorts, every season bringing on new people for the next three years as people retire. Lastly, if management thinks more senior-level employees should be promoted, they can be promoted from the existing Engineers and Staff who may be eligible. 
 
 
