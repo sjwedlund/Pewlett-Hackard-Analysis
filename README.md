@@ -38,5 +38,5 @@ I wrote a query to create a Mentorship Eligibility table that holds the employee
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-There are currently 240,214 current employees with the company, and there are 90,398 roles that will need to be filled as older employees start to retire. At the moment, there are 1549 qualified and retirement-ready employees in the departments who can mentor the next generation of Pewlett Hackard employees. This leaves 148,177 employees who are not retiring and are not eligible for the mentorship program. 
+There is a total of 240,214 current employees with the company, and there are 90,398 roles that will need to be filled as older employees start to retire. At the moment, there are 1549 qualified and retirement-ready employees in the departments who can mentor the next generation of Pewlett Hackard employees. This leaves 148,177 employees who are not retiring and are not eligible for the mentorship program. 
 
